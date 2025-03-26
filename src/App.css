@@ -1,0 +1,9 @@
+
+.main {  /* Use .main instead of #main */
+  display: flex ; /*Needed for align-items & justify-content to work */
+  align-items: center;
+
+  justify-content: center;
+  background-color: antiquewhite;
+  height: 97vh; /* Optional: To center content vertically */
+}
